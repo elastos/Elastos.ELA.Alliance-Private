@@ -1,6 +1,6 @@
 module github.com/jpmorganchase/istanbul-tools
 
-replace github.com/ethereum/go-ethereum => github.com/jpmorganchase/quorum v2.4.0+incompatible
+replace github.com/ethereum/go-ethereum => github.com/elastos/Elastos.ELA.Alliance v0.0.0-20200519222624-6706bb231dd7
 
 replace github.com/Sirupsen/logrus => github.com/sirupsen/logrus v1.1.1
 
@@ -26,6 +26,7 @@ require (
 	github.com/eapache/queue v1.1.0 // indirect
 	github.com/edsrzf/mmap-go v0.0.0-20170320065105-0bce6a688712 // indirect
 	github.com/elastic/gosigar v0.10.4 // indirect
+	github.com/elastos/Elastos.ELA.GM v0.0.0-20200520075054-f721246dc503 // indirect
 	github.com/emicklei/go-restful v0.0.0-20170410110728-ff4f55a20633 // indirect
 	github.com/emicklei/go-restful-swagger12 v0.0.0-20170208215640-dcef7f557305 // indirect
 	github.com/ethereum/go-ethereum v1.8.27
@@ -69,6 +70,7 @@ require (
 	github.com/satori/go.uuid v1.2.0
 	github.com/spf13/pflag v1.0.3 // indirect
 	github.com/syndtr/goleveldb v0.0.0-20181128100959-b001fa50d6b2 // indirect
+	github.com/tjfoc/gmsm v1.3.1 // indirect
 	github.com/tv42/httpunix v0.0.0-20150427012821-b75d8614f926 // indirect
 	github.com/ugorji/go v0.0.0-20170107133203-ded73eae5db7 // indirect
 	github.com/urfave/cli v0.0.0-20181029213200-b67dcf995b6a
