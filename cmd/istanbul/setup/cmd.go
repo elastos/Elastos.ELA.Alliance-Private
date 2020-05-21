@@ -19,6 +19,7 @@ package setup
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/ethereum/go-ethereum/crypto/elacrypto"
 	"io/ioutil"
 	"math/big"
 	"net"
@@ -64,11 +65,14 @@ var (
 			nodeIpFlag,
 			nodePortBaseFlag,
 			nodePortIncrementFlag,
+			cryptoModeFlag,
 		},
 	}
 )
 
 func gen(ctx *cli.Context) error {
+	elacrypto.SetCryptoMode(cryptoModeFlag)
+
 	num := ctx.Int(numOfValidatorsFlag.Name)
 
 	keys, nodekeys, addrs := istcommon.GenerateKeys(num)

@@ -67,4 +67,10 @@ var (
 		Usage: "Value to increment port number by, for each node",
 		Value: 0,
 	}
+
+	cryptoModeFlag = cli.StringFlag{
+		Name:  "cryptoMode",
+		Usage: "Crypto mode to use",
+		Value: "",
+	}
 )
