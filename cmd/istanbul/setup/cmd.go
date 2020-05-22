@@ -71,8 +71,7 @@ var (
 )
 
 func gen(ctx *cli.Context) error {
-	elacrypto.SetCryptoMode(cryptoModeFlag)
-
+	elacrypto.SetCryptoMode(ctx.String(cryptoModeFlag.Name))
 	num := ctx.Int(numOfValidatorsFlag.Name)
 
 	keys, nodekeys, addrs := istcommon.GenerateKeys(num)
