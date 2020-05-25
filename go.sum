@@ -71,6 +71,8 @@ github.com/elastos/Elastos.ELA.Alliance v0.0.0-20200519222624-6706bb231dd7/go.mo
 github.com/elastos/Elastos.ELA.GM v0.0.0-20200513024321-69aacb0a0e77 h1:QiAYxeHDQyyukEcd2KjOvNUHlcoUi76kzllAigO8AnE=
 github.com/elastos/Elastos.ELA.GM v0.0.0-20200520075054-f721246dc503 h1:spI4mK2PV9a0YsaJJQ73LU8MqJPWlxC4IpyT1pf0g9c=
 github.com/elastos/Elastos.ELA.GM v0.0.0-20200520075054-f721246dc503/go.mod h1:oNwc7CNFhYmOMgArFxbPSTIAYXtplqN1ZHepOaYTPno=
+github.com/elastos/Elastos.ELA.GM v0.0.0-20200525093018-2f290c5a3f03 h1:GQ3h8t1aPY0c49tryphD/9hESxOiN5CyD6gjInwnFJU=
+github.com/elastos/Elastos.ELA.GM v0.0.0-20200525093018-2f290c5a3f03/go.mod h1:oNwc7CNFhYmOMgArFxbPSTIAYXtplqN1ZHepOaYTPno=
 github.com/emicklei/go-restful v0.0.0-20170410110728-ff4f55a20633 h1:H2pdYOb3KQ1/YsqVWoWNLQO+fusocsw354rqGTZtAgw=
 github.com/emicklei/go-restful v0.0.0-20170410110728-ff4f55a20633/go.mod h1:otzb+WCGbkyDHkqmQmT5YD2WR4BBwUdeQoFo8l/7tVs=
 github.com/emicklei/go-restful-swagger12 v0.0.0-20170208215640-dcef7f557305 h1:2vAWk0wMCWb/pYiyat2rRZp5I5ZM+efPlagySNZ3JeM=
@@ -246,7 +248,6 @@ github.com/stretchr/testify v1.4.0 h1:2E4SXV/wtOkTonXsotYi4li6zVWxYlZuYNCXe9XRJy
 github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
 github.com/syndtr/goleveldb v0.0.0-20181128100959-b001fa50d6b2 h1:GnOzE5fEFN3b2zDhJJABEofdb51uMRNb8eqIVtdducs=
 github.com/syndtr/goleveldb v0.0.0-20181128100959-b001fa50d6b2/go.mod h1:Z4AUp2Km+PwemOoO/VB5AOx9XSsIItzFjoJlOSiYmn0=
-github.com/tjfoc/gmsm v1.3.1 h1:+k3IAlF81c31/TllJmIfuCYnjl8ziMdTWGWJcP9J1uo=
 github.com/tjfoc/gmsm v1.3.1/go.mod h1:HaUcFuY0auTiaHB9MHFGCPx5IaLhTUd2atbCFBQXn9w=
 github.com/tv42/httpunix v0.0.0-20150427012821-b75d8614f926 h1:G3dpKMzFDjgEh2q1Z7zUUtKa8ViPtH+ocF0bE0g00O8=
 github.com/tv42/httpunix v0.0.0-20150427012821-b75d8614f926/go.mod h1:9ESjWnEqriFuLhtthL60Sar/7RFoluCcXsuvEwTV5KM=
