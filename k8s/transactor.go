@@ -25,8 +25,8 @@ import (
 
 	"github.com/ethereum/go-ethereum/crypto"
 
-	"github.com/jpmorganchase/istanbul-tools/client"
-	istcommon "github.com/jpmorganchase/istanbul-tools/common"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/client"
+	istcommon "github.com/elastos/Elastos.ELA.Alliance.IBFT/common"
 )
 
 type Transactor interface {

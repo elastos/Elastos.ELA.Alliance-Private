@@ -20,11 +20,11 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/jpmorganchase/istanbul-tools/cmd/istanbul/address"
-	"github.com/jpmorganchase/istanbul-tools/cmd/istanbul/extra"
-	"github.com/jpmorganchase/istanbul-tools/cmd/istanbul/reinit"
-	"github.com/jpmorganchase/istanbul-tools/cmd/istanbul/setup"
-	"github.com/jpmorganchase/istanbul-tools/cmd/utils"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/cmd/istanbul/address"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/cmd/istanbul/extra"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/cmd/istanbul/reinit"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/cmd/istanbul/setup"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/cmd/utils"
 	"github.com/urfave/cli"
 )
 

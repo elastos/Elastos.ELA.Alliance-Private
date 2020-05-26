@@ -17,7 +17,7 @@
 package k8s
 
 import (
-	logging "github.com/jpmorganchase/istanbul-tools/log"
+	logging "github.com/elastos/Elastos.ELA.Alliance.IBFT/log"
 )
 
 var log = logging.New()

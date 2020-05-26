@@ -17,9 +17,9 @@
 package k8s
 
 import (
-	"github.com/jpmorganchase/istanbul-tools/charts"
-	"github.com/jpmorganchase/istanbul-tools/common"
-	"github.com/jpmorganchase/istanbul-tools/genesis"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/charts"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/common"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/genesis"
 )
 
 func ExampleK8SEthereum() {

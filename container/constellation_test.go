@@ -20,7 +20,7 @@ import (
 	"testing"
 
 	"github.com/docker/docker/client"
-	"github.com/jpmorganchase/istanbul-tools/docker/service"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/docker/service"
 	"github.com/phayes/freeport"
 )
 

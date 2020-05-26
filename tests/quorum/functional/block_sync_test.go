@@ -24,9 +24,9 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	"github.com/jpmorganchase/istanbul-tools/container"
-	"github.com/jpmorganchase/istanbul-tools/docker/service"
-	"github.com/jpmorganchase/istanbul-tools/tests"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/container"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/docker/service"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/tests"
 )
 
 var _ = Describe("Block synchronization testing", func() {

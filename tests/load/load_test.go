@@ -27,11 +27,11 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	istcommon "github.com/jpmorganchase/istanbul-tools/common"
-	"github.com/jpmorganchase/istanbul-tools/container"
-	"github.com/jpmorganchase/istanbul-tools/k8s"
-	"github.com/jpmorganchase/istanbul-tools/metrics"
-	"github.com/jpmorganchase/istanbul-tools/tests"
+	istcommon "github.com/elastos/Elastos.ELA.Alliance.IBFT/common"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/container"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/k8s"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/metrics"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/tests"
 )
 
 var _ = Describe("TPS-01: Large amount of transactions", func() {

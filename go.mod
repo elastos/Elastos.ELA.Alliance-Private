@@ -1,4 +1,4 @@
-module github.com/jpmorganchase/istanbul-tools
+module github.com/elastos/Elastos.ELA.Alliance.IBFT
 
 replace github.com/ethereum/go-ethereum => github.com/elastos/Elastos.ELA.Alliance v0.0.0-20200519222624-6706bb231dd7
 

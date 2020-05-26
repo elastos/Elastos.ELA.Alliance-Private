@@ -27,8 +27,8 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	ethtypes "github.com/ethereum/go-ethereum/core/types"
 
-	"github.com/jpmorganchase/istanbul-tools/client"
-	"github.com/jpmorganchase/istanbul-tools/container"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/client"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/container"
 )
 
 type SnapshotStopper func()

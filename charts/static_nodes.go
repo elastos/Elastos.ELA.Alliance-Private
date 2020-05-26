@@ -22,7 +22,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/jpmorganchase/istanbul-tools/common"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/common"
 )
 
 type StaticNodesChart struct {

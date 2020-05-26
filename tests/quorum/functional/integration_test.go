@@ -23,8 +23,8 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	"github.com/jpmorganchase/istanbul-tools/container"
-	"github.com/jpmorganchase/istanbul-tools/docker/service"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/container"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/docker/service"
 )
 
 var dockerNetwork *container.DockerNetwork

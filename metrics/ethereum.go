@@ -22,9 +22,9 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/jpmorganchase/istanbul-tools/client"
-	"github.com/jpmorganchase/istanbul-tools/container"
-	"github.com/jpmorganchase/istanbul-tools/k8s"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/client"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/container"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/k8s"
 )
 
 type metricEthereum struct {

@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"text/template"
 
-	"github.com/jpmorganchase/istanbul-tools/docker/service"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/docker/service"
 )
 
 type quorum struct {

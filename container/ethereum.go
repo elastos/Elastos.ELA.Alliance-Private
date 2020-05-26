@@ -42,9 +42,9 @@ import (
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/p2p/discv5"
 
-	"github.com/jpmorganchase/istanbul-tools/client"
-	istcommon "github.com/jpmorganchase/istanbul-tools/common"
-	"github.com/jpmorganchase/istanbul-tools/genesis"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/client"
+	istcommon "github.com/elastos/Elastos.ELA.Alliance.IBFT/common"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/genesis"
 )
 
 const (

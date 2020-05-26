@@ -25,7 +25,7 @@ import (
 
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/jpmorganchase/istanbul-tools/genesis"
+	"github.com/elastos/Elastos.ELA.Alliance.IBFT/genesis"
 )
 
 type GenesisChart struct {
